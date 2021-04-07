@@ -1,3 +1,6 @@
+//  Flash Chat iOS13
+//  Cristian C. Castillo
+//
 
 import UIKit
 import Firebase
