@@ -1,4 +1,5 @@
-# FlashChat iOS Application | Author: Cristian C. Castillo
+# FlashChat iOS Application 
+# Author: Cristian C. Castillo
 ------
 ### App Overview GIF
 
