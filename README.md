@@ -1,2 +1,5 @@
-# FlashChat
-Chat Application
+# FlashChat 
+# Project By Cristian C. Castillo
+
+--------
+
